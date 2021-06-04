@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-*Attention: * Please use the Discussions page for feature requests or suggestions instead of opening a new issue.
+Attention: Please use the Discussions page for feature requests or suggestions instead of opening a new issue.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
